@@ -1,1 +1,8 @@
-style
+#bg{
+    background-image: url('https://wl-brightside.cf.tsp.li/resize/728x/jpg/0bb/959/ba16a05fa7b18c5f21767d2b1c.jpg');
+    background-repeat: no-repeat;
+    /* background-position: 50px 100px; */
+    background-size:auto;
+
+    /* background-attachment: fixed;*/
+} 
